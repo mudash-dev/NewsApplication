@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NewsApplication</string>
+    <string name="headlines">Headlines</string>
+    <string name="favourites">Favourites</string>
+    <string name="search">Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorites_value">Favourites</string>
+    <string name="retry">Retry</string>
+    <string name="no_internet">No Internet</string>
+    <string name="headlines_value">Headlines.</string>
+    <string name="search_value">Search</string>
+    <string name="search_news_hint">Search news...</string>
+    <string name="display_news">display_news</string>
+    <string name="source">SOURCE</string>
+    <string name="title">TITLE</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="date_time">DATE TIME</string>
+    <string name="news_logo_img">news_logo_img</string>
+    <string name="fab_icon">Fab_icon</string>
+</resources>
